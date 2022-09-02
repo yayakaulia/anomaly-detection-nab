@@ -1,7 +1,10 @@
 # anomaly-detection-nab
 an anomaly detection on Ambient Temperature System Failure from NAB Kaggle Dataset.
 
-For this Machine learning
+For this Machine learning cases of Anomaly Detection, I use two Algorithm to detect the anomaly. K-means and Isolation Forest.
+The Anomaly Detection is quite unique cases. You could approach it with Supervised and Unsupervised, and I choose using the Unsupervised Learning.
+
+This datasets, contains only 2 feature, timestamp and value (Temperature).
 
 
 
